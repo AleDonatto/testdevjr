@@ -1,0 +1,14 @@
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PostUser.resources
+C:\laragon\www\testdevjr\Prueba_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TodosUser.resources
